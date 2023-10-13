@@ -1,4 +1,4 @@
-const Array = [
+const array = [
     {
         name: 'sempu',
         company: 'Uniliver',
@@ -6,21 +6,21 @@ const Array = [
     },
     {
         name: 'kabil',
-        address:'bangladesh',
-        yaer:2023
+        address: 'bangladesh',
+        yaer: 2023
     },
     {
-        name:'komla',
-        price:333,
-        date:20-2-2020
+        name: 'komla',
+        price: 333,
+        date: 20 - 2 - 2020
     }
 ]
-Array(0);
-Array(1);
+array(0);
+array(1);
 
 // const Array=[15,56,87];
-const Array={
-    '0':15,
-    '1':56,
-    '2':87
+const Array = {
+    '0': 15,
+    '1': 56,
+    '2': 87
 }
