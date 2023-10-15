@@ -26,3 +26,4 @@ function matchedProducts(products,search) {
 }
 const result=matchedProducts(products,'phone');
 console.log(result);
+
